@@ -176,32 +176,32 @@ Looker Studio Dashboard
 # Dashboard Preview
 
 ## Funnel Overview
-![Funnel Dashboard](Assets/dashboard/funnel.png)
+![Funnel Dashboard](assets/dashboard/funnel.png)
 
 ## Executive Overview
-![Overview Dashboard](Assets/dashboard/overview.png)
+![Overview Dashboard](assets/dashboard/overview.png)
 
 ## Source Performance
-![Source Performance](Assets/dashboard/source_performance.png)
+![Source Performance](assets/dashboard/source_performance.png)
 
 ---
 
 # Automation Flow
 
 ## Lead Pipeline
-![Lead Pipeline](Assets/automation/lead_pipeline_overview.png)
+![Lead Pipeline](assets/automation/lead_pipeline_overview.png)
 
 ## Lead Scoring Logic
-![Lead Scoring](Assets/automation/lead_scoring.png)
+![Lead Scoring](assets/automation/lead_scoring.png)
 
 ## Opportunity Flow
-![Opportunity Flow](Assets/automation/opportunity_flow.png)
+![Opportunity Flow](assets/automation/opportunity_flow.png)
 
 ---
 
 # System Architecture
 
-![Architecture Diagram](Assets/diagram/architecture.png)
+![Architecture Diagram](assets/diagram/architecture.png)
 
 ---
 
